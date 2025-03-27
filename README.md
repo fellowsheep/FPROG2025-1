@@ -65,7 +65,7 @@ Cada diretório de projeto (ex: uma lista ou trabalho) pode conter sua própria 
 │   └── 📄 README.md
 ```
 
-> O arquivo `README.md` de cada diretório deve conter informações específicas sobre a tarefa/projeto implementado.
+> O arquivo `README.md` de cada diretório deve conter informações específicas sobre a tarefa/projeto implementado. Você pode usar este [Template de README.md](README_TEMPLATE_SIMPLES.md) para escrever os seus. Pode editá-los no próprio Github (página na internet).
 
 Caso precise de um passo-a-passo mais detalhado para criar e organizar seu próprio repositório de exercícios, consulte os seguintes materiais:
 - [Tutorial de Entregas pelo Github](TutorialEntregasGithub.pdf)
