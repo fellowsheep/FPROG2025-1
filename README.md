@@ -24,7 +24,8 @@ Você pode utilizar:
 
 1. Acesse o site.
 2. Cole o código.
-3. Clique em “Run”.
+3. Selecione a linguagem (C)
+4. Clique em “Run”.
 
 ### 💻 VS Code (com compilador C instalado)
 
