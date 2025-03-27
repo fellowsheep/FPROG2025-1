@@ -8,14 +8,10 @@ Todos os exemplos são escritos em **linguagem C**, com foco em ensinar lógica 
 
 ## 📁 Organização dos Diretórios
 
-Cada diretório corresponde a um tópico abordado em aula:
+Cada diretório corresponde a um tópico abordado em aula, ou correções de alguns exercícios que foram feitos em aula (além dos gabaritos já fornecidos):
 
-- `Exemplos Linguagens/` – Comparações iniciais entre C, Python, Java e C++
-- `Exemplos EntradaSaida/` – Primeiros programas com entrada e saída de dados
-- `Exemplos Seleção/` – Comandos de decisão: `if`, `else`, `switch-case`
-- `Exemplos Repetição/` – Laços `for`, `while`, `do-while`
-- `Exemplos Funções/` – Criação e uso de funções simples em C
-- `Exemplos Operadores/` – Operadores aritméticos, relacionais e lógicos
+- `Exemplos Seleção/` 
+- `Correções de alguns exercícios/` 
 - (Outros diretórios serão adicionados ao longo do semestre)
 
 ---
