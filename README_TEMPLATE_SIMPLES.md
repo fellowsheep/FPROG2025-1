@@ -8,7 +8,7 @@ Trabalho desenvolvido para a disciplina **Algoritmos e Programação: Fundamento
 - Nome 2 (se houver)
 - Nome 3 (se houver)
 
-## 🚀 Como executar
+## 🚀 Como executar 
 
 Este programa foi feito em **linguagem C** e pode ser executado no [OnlineGDB](https://www.onlinegdb.com/) ou em um editor como o **VS Code** (com compilador instalado).
 
