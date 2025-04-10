@@ -2,13 +2,15 @@
 
 int main()
 {
-    int cont = 0;
+    int cont = 1;
 
-    while (cont < 10)
+    while (cont <= 10)
     {
-         cont = cont + 1; //incremento de valor
-         printf("%d\n", cont);
+        printf("%d\n", cont);
+        cont = cont + 1; //incremento de valor
     }
+
+    printf("Valor final do cont = %d\n",cont);
 
     getchar();
 

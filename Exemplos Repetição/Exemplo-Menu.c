@@ -5,8 +5,8 @@ int main()
 {
     float a, b, res = 0.0;
     char operacao = '\0'; //inicializar a varável que será usada na condição
-    bool sucesso = true; // 0 não teve sucesso, 1 teve sucesso
-                     // Assume que vai ser sucedido
+    bool sucesso = true; // false não teve sucesso, true teve sucesso
+                         // Assume que vai ser sucedido
 
     while (operacao != 'S')
     {
