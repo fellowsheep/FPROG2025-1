@@ -32,6 +32,7 @@ Execute o seguinte comando para instalar os pacotes necessários:
 ```sh
 pacman -S --needed base-devel mingw-w64-ucrt-x86_64-toolchain
 ```
+Na primeira questão que aparecer, apenas digite `ENTER`. Na segunda [Y/N], digite `Y`.
 
 Caso queira ou necessite de mais suporte nesta etapa, consulte o manual oficial:
 
