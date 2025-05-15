@@ -6,9 +6,8 @@
 
 int main()
 {
-    srand(time(0));
-
-    int A[TAM] = { 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 };
+    const int tam = 10;
+    int A[tam] = { 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 };
     int tamanho = sizeof(A) / sizeof(A[0]);
     printf("Tamanho do array: %d\n",tamanho);
     printf("Tamanho em bytes do array: %d\n",sizeof(A));
@@ -27,18 +26,12 @@ int main()
         printf("A[%d] = %d\n",i,A[i]);
     }
     
-    printf("-------------------\n");
     
    
     int B[TAM]; 
+    
 
-    for(int i=0; i < TAM; i++)
-    {
-        B[i] = rand() % 101;
-        printf("B[%d] = %d ",i,B[i]);
-    }
-
-    printf("\n-------------------\n");
+    
 
     return 0;
 }
