@@ -90,4 +90,4 @@ Aqui vai uma tabela com os principais modelos disponíveis atualmente e suas car
 
 ---
 
-**Bom estudo!** Qualquer problema, peça ajuda com calma, explique bem, e refine seus pedidos se precisar! 😊
+**Bom estudo!** Qualquer problema, não esqueça que você tem uma professora HUMANA que pode lhe ajudar! 😊
