@@ -1,4 +1,6 @@
-# Como usar o ChatGPT para estudar programação – algumas dicas
+# Como usar GPTs para estudar programação – algumas dicas
+
+![Robozinho ensinando uma jovem a programar](imgs/image-1.png)
 
 Estudar programação com o auxílio de modelos de linguagem como o ChatGPT pode ser muito produtivo, desde que você saiba como pedir ajuda da melhor forma possível. Aqui vão algumas dicas práticas para aproveitar ao máximo essa ferramenta:
 
@@ -55,8 +57,23 @@ Se o compilador mostrar uma mensagem de erro, **cole o erro inteiro** no prompt.
 3. Peça uma explicação didática, como se fosse para iniciantes.
 
 ---
+## 6) Peça ajuda para simular seu código ou a usar o DEBUG da IDE (passo-a-passo)
 
-## 6) Qual versão do ChatGPT (ou IA similar) usar para estudar programação?
+Você pode usar o ChatGPT para simular a execução de programas simples, observando os valores das variáveis passo a passo (como um **teste de mesa**).
+
+**Exemplo de prompt:**
+
+> Pode simular esse código e mostrar os valores de `i`, `soma` e `n` a cada iteração do laço?
+
+Além disso, você pode pedir **ajuda para usar ferramentas da IDE** (como o depurador/debugger) caso esteja com dificuldades. Por exemplo:
+
+> Estou usando o VS Code. Como faço para colocar um breakpoint e acompanhar o valor de uma variável?
+
+🔧 **Observação:** Não troque os recursos de DEBUG de uma IDE pelos GPTs. Você pode usar como ferramenta complementar. Lembre que GPTs podem errar.
+
+---
+
+## 7) Qual versão do ChatGPT (ou IA similar) usar para estudar programação?
 
 Aqui vai uma tabela com os principais modelos disponíveis atualmente e suas características:
 
