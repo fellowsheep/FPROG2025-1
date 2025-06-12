@@ -60,7 +60,7 @@ Cada diretório de projeto (ex: uma lista ou trabalho) pode conter sua própria 
 ```
 📁 FPROG2025-1/
 ├── 📁 Lista 1/
-│   ├── 📁 .vscode/
+│   ├── 📁 .vscode/ 
 │   ├── 📄 source.c
 │   └── 📄 README.md
 ```
